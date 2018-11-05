@@ -1,0 +1,6 @@
+{
+    "mongodb": {
+        "url": "mongodb://localhost/My",
+        "name": "测试环境"
+    }
+}

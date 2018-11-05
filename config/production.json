@@ -1,0 +1,8 @@
+
+
+{
+    "mongodb": {
+        "url": "mongodb://localhost:80/user",
+        "name": "生产环境"
+    }
+}
