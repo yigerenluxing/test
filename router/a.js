@@ -46,7 +46,7 @@ function E_mail() {
 
 function pc() {
     try {
-        superagent.get('xxx').end(function (err, sres) {
+        superagent.get('xxx').end(function (err, sres) { 
             if (err) {
                 // console.log(err)
                 console.log('爬取失败');
