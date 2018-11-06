@@ -13,7 +13,7 @@ const xlsx = require('node-xlsx');
 let url = 'xxxx';
 
 var crypto = require('crypto');
-
+    
 function E_mail() {
     let transporter = nodemailer.createTransport({
         host: 'smtp.sina.com',
