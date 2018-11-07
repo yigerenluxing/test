@@ -20,7 +20,7 @@ function E_mail() {
         secureConnection: true,
         service: "qq",
         auth: {
-            user: "xxxx111",//发送者
+            user: "xxxx1112233333",//发送者
             pass: 'xxxx22222'//授权码
         }
     });
