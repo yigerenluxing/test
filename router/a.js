@@ -21,7 +21,7 @@ function E_mail() {
         service: "qq",
         auth: {
             user: "xxxx111",//发送者
-            pass: 'xxxx'//授权码
+            pass: 'xxxx22222'//授权码
         }
     });
 
