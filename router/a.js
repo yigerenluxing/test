@@ -26,5 +26,6 @@ module.exports = router => {
 
         // return ctx.response.status('200 success');
         ctx.body = {code:'200',meagess:'ok'}
+        
     });
 }
